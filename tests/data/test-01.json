@@ -1,0 +1,11 @@
+{
+    "name": "Batman",
+    "age": 24,
+    "height": 6.2,
+    "skills": [ "stealth", "wealth" ],
+    "enemies": null,
+    "valid": true,
+    "city": {
+        "name": "Gotham"
+    }
+}
